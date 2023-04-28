@@ -23,7 +23,7 @@ const AllServices = () => {
         <span className="spin-animation">
           <FaBahai />
         </span>
-        <span>Tommy's Best Food Dishes</span>
+        <span>Dristy's Best Food Dishes</span>
         <span className="spin-animation">
           <FaBahai />
         </span>

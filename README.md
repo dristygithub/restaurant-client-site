@@ -1,6 +1,6 @@
-# Tommy's Kitchen Table
+# Dristy's Kitchen
 
-> Live site: [Tommy's Kitchen Table](https://kitchen-table-25175.web.app/).
+> Live site: [Dristy's Kitchen](https://kitchen-table-25175.web.app/).
 
 Some Key Features:
 

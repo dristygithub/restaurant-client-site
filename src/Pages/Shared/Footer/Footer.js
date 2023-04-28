@@ -37,21 +37,21 @@ const Footer = () => {
       <div>
         <div className="mt-4 flex justify-between space-x-8 text-3xl">
           <a
-            href="https://www.facebook.com/rakib.molla.9634340/"
+            href="https://www.facebook.com/sheemajahan.dristy.1?mibextid=ZbWKwL"
             target="_blank"
             rel="noreferrer"
           >
             <FaFacebookSquare />
           </a>
           <a
-            href="https://github.com/MohammadRakib1e18?tab=repositories"
+            href="https://github.com/dristygithub?tab=repositories"
             target="_blank"
             rel="noreferrer"
           >
             <FaGithub />
           </a>
           <a
-            href="https://www.linkedin.com/in/mohammad-rakib1/"
+            href="https://www.linkedin.com"
             target="_blank"
             rel="noreferrer"
           >
@@ -62,7 +62,7 @@ const Footer = () => {
 
       <div className="mt-8 ">
         <div className="flex-1 h-px sm:w-32   bg-gray-400 "></div>
-        <p>Copyright © 2022 - All right reserved by Tommy Mia</p>
+        <p>Copyright © 2022 - All right reserved by Dristy</p>
       </div>
     </footer>
   );

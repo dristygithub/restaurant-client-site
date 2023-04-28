@@ -59,9 +59,8 @@ const Navbar = () => {
               alt=""
             />
             <h2 className="text-slate-300 dark:text-slate-800">
-              <span className="text-orange-400">T</span>ommy's
+              <span className="text-orange-400">D</span>risty's
               <span className="text-orange-400"> K</span>itchen
-              <span className="text-orange-400"> T</span>able
             </h2>
             <li
               className="text-white dark:text-yellow-300 list-none ml-5"
