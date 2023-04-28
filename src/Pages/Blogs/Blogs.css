@@ -1,0 +1,30 @@
+.hero-container{
+  top:0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 30%;
+}
+
+.blog-container .card{
+    border-top: 5px solid rgb(114, 63, 63);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.blog-container .card:hover{
+    border-top: 5px solid rgb(196, 51, 51);
+}
+.spin-animation{
+    animation: logo-spin infinite 2s linear;
+}
+.spin-animation2{
+  animation: logo-spin infinite 100s linear;
+}
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

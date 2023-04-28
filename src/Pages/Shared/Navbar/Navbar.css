@@ -1,0 +1,9 @@
+.active{
+    background-color: rgba(52, 88, 129, 0.24);
+}
+.light-bg{
+    background-color: rgba(240, 248, 255, 0.877);
+}
+.dark-bg{
+    background-color: #0F1729;
+}

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&display=swap');
+
+.banner-container{
+    background-image: linear-gradient(to right, #0d141f, #1e293b00), url('../../../images/hero-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 550px;
+}
+.banner-container h1, .merri-text{
+    font-family: 'Merriweather', serif;
+}
